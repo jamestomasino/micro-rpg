@@ -22,11 +22,11 @@ A challenge is a combinatorial that happens on one hand. You set the range of di
 
 Throughout the challenge micro-system I will number the fingers in the following way:
 
-  1 = Thumb
-  2 = Index finger
-  3 = Middle finger
-  4 = Ring Finger
-  5 = Pinky
+    1 = Thumb
+    2 = Index finger
+    3 = Middle finger
+    4 = Ring Finger
+    5 = Pinky
 
 For example:
 
@@ -40,29 +40,52 @@ You could test 2 out of 4 as well, which tells him just ignore the pinky as a po
 
 Challenge Table
 
-Challenge
-Chance of success
-4 of 5
-80%
-3 of 5
-60%
-2 of 5
-40%
-1 of 5
-20%
-3 of 4
-75%
-2 of 4
-50%
-1 of 4
-25%
-2 of 3
-66%
-1 of 3
-33%
-1 of 2
-50%
-
+<table>
+  <tr>
+    <td>Challenge</td>
+    <td>Chance of success</td>
+  </tr>
+  <tr>
+    <td>4 of 5</td>
+    <td>80%</td>
+  </tr>
+  <tr>
+    <td>3 of 5</td>
+    <td>60%</td>
+  </tr>
+  <tr>
+    <td>2 of 5</td>
+    <td>40%</td>
+  </tr>
+  <tr>
+    <td>1 of 5</td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td>3 of 4</td>
+    <td>75%</td>
+  </tr>
+  <tr>
+    <td>2 of 4</td>
+    <td>50%</td>
+  </tr>
+  <tr>
+    <td>1 of 4</td>
+    <td>25%</td>
+  </tr>
+  <tr>
+    <td>2 of 3</td>
+    <td>66%</td>
+  </tr>
+  <tr>
+    <td>1 of 3</td>
+    <td>33%</td>
+  </tr>
+  <tr>
+    <td>1 of 2</td>
+    <td>50%</td>
+  </tr>
+</table>
 
 Ten possible scenarios of varying difficulty, and all incredibly easy to remember. Just pick the scenario that fits the difficulty you want to set. If you need an NPC to make a test, set the difficulty but have your player make the finger choices.
 
