@@ -36,56 +36,21 @@ You say that will be a `2 out of 5`. You put your hand behind your back and clos
 
 You could test `2 out of 4` as well, which tells him just ignore the pinky as a possibility. A `2 out of 4` seems like it would be the same probability as a `1 out of 2` and therefore unnecessary, but you’ll see why the distinction is important below.
 
+#### Challenge Table
 
+| Challenge     | Success Chance |
+| :-----------: |:--------------:|
+| 4 of 5        | 80%            |
+| 3 of 5        | 60%            |
+| 2 of 5        | 40%            |
+| 1 of 5        | 20%            |
+| 3 of 4        | 75%            |
+| 2 of 4        | 50%            |
+| 1 of 4        | 25%            |
+| 2 of 3        | 66%            |
+| 1 of 3        | 33%            |
+| 1 of 2        | 50%            |
 
-Challenge Table
-
-<table>
-  <tr>
-    <td>Challenge</td>
-    <td>Chance of success</td>
-  </tr>
-  <tr>
-    <td>4 of 5</td>
-    <td>80%</td>
-  </tr>
-  <tr>
-    <td>3 of 5</td>
-    <td>60%</td>
-  </tr>
-  <tr>
-    <td>2 of 5</td>
-    <td>40%</td>
-  </tr>
-  <tr>
-    <td>1 of 5</td>
-    <td>20%</td>
-  </tr>
-  <tr>
-    <td>3 of 4</td>
-    <td>75%</td>
-  </tr>
-  <tr>
-    <td>2 of 4</td>
-    <td>50%</td>
-  </tr>
-  <tr>
-    <td>1 of 4</td>
-    <td>25%</td>
-  </tr>
-  <tr>
-    <td>2 of 3</td>
-    <td>66%</td>
-  </tr>
-  <tr>
-    <td>1 of 3</td>
-    <td>33%</td>
-  </tr>
-  <tr>
-    <td>1 of 2</td>
-    <td>50%</td>
-  </tr>
-</table>
 
 Ten possible scenarios of varying difficulty, and all incredibly easy to remember. Just pick the scenario that fits the difficulty you want to set. If you need an NPC to make a test, set the difficulty but have your player make the finger choices.
 
