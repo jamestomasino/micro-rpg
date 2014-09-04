@@ -2,7 +2,9 @@
 
 ### Dependencies
 
-- Challenge System
+- Challenge
+
+### Overview
 
 To enable the player to have some small input we have the karma system. To use it you'll need to remember a number from 0 to 5. Every time a player fails a test, they gain 1 karma. You can keep track of these with your other hand if you're really bad at remembering things. A player may never accumulate more than 5, nor have less than 0. The one exception to the accrual of karma is in a test where you have spent karma. If you fail a test when spending a karma point, you do not earn a new one.
 
