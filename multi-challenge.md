@@ -4,6 +4,8 @@
 
 - Challenge
 
+### Overview
+
 If a test should be extremely difficult, you might consider chaining multiple challenges. Requiring a `1 of 5` followed by a `1 of 3`, for instance, provides more difficulty than either test alone. This situation is best used for challenges that can have partial successes, or take place over a period of time. 
 
 Note: multiple challenges can quickly approach impossible odds. Use this carefully.
